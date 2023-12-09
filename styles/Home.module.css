@@ -4,11 +4,12 @@
   align-items: center;
 
   min-height: 100vh;
+  padding: 1rem;
+  font-size: 64px;
   font-family: sans-serif;
 }
 
 .heading {
-  font-size: 4vw;
-  line-height: 5vw;
+  font-size: 98px;
   text-transform: uppercase;
 }
