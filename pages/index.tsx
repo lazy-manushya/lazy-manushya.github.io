@@ -5,7 +5,7 @@ export default function Home() {
     <div className={styles.container}>
       <div>
         <h1 className={styles.heading}>
-          Nothing to see here stranger,
+          Nothing to see here stranger.
         </h1>
         <br />
         <p>
